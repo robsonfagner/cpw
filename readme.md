@@ -1,4 +1,1 @@
-Bem vindo ao Curso de Git, aqui teste para saber se está funcionando a função!!!!
-
-
-teste
+BEM VINDO AOS ARQUIVOS DO CURSO DA UFF!!
